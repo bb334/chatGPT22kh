@@ -19,7 +19,7 @@ namespace isRock.Template
 
             // Request headers.
             client.DefaultRequestHeaders.Add(
-                "Authorization", "Bearer ________chatGPT_Token_______________");
+                "Authorization", "Bearer ________sk-NArpxAmMtxvcEdMoOKkkT3BlbkFJlxQZ5bkbMZu1NnNAVSnD_______________");
 
             var JsonString = @"
             {
